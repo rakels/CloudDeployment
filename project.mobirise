@@ -81,9 +81,9 @@
               "size": 0
             }
           },
-          "title": "Fachstudie Cloud Deployment TodoMVC",
-          "text": "Vorstellung der Fachstudie .....",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "title": "Cloud Deployment TodoMVC",
+          "text": "There are many &nbsp;possibilities for Cloud Deployment solutions out there. But which solution suits my needs?&nbsp;<br>To help solve this problem we compared several tools set up a system with them and &nbsp;collected our findings here,<br>&nbsp;<br>To the tools:&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "features3",
@@ -107,7 +107,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
+            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -121,32 +121,16 @@
               "name": "megaphone",
               "family": "et-line",
               "active": true,
-              "link": "motivation.html",
+              "link": "task.html",
               "size": 0,
               "newWindow": false
             }
           },
-          "title1": "Motivation",
+          "title1": "Task",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Einleitender Satz ....",
-          "button1": "<a data-app-btn=\"true\" href=\"motivation.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption1": "Here you can find the description of the systems that are set up with the provided examples",
+          "button1": "<a data-app-btn=\"true\" href=\"task.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "magnifying-glass",
-              "family": "et-line",
-              "active": true,
-              "link": "auswahl.html",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title2": "Auswahl der Tools",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Einleitender Satz .....",
-          "button2": "<a data-app-btn=\"true\" href=\"auswahl.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
@@ -158,10 +142,26 @@
               "newWindow": false
             }
           },
-          "title3": "Tools",
+          "title2": "Tools",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Here you can find descriptions of the analyzed tools and example code.",
+          "button2": "<a data-app-btn=\"true\" href=\"tools.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "magnifying-glass",
+              "family": "et-line",
+              "active": true,
+              "link": "overview.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title3": "Overview",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Einleitender Satz ....",
-          "button3": "<a data-app-btn=\"true\" href=\"tools.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption3": "A quick overview of the tools&nbsp;",
+          "button3": "<a data-app-btn=\"true\" href=\"overview.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -339,608 +339,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"motivation.html\">Motivation</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"auswahl.html\">Auswahl</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"false\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AWS Cloud Formation<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fazit.html\" aria-expanded=\"true\">Fazit</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        }
-      ]
-    },
-    "motivation.html": {
-      "settings": {},
-      "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-f",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "text": "<p>Platzhalter ..........</p>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-e",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "Motivation",
-          "meta": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-12",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Platzhalter ..........</p>"
-        },
-        {
-          "_inherit": "features3",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features6",
-          "_anchor": "features6-k",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": true
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "megaphone",
-              "family": "et-line",
-              "active": true,
-              "link": "motivation.html",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title1": "Motivation",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Einleitender Satz ....",
-          "button1": "<a data-app-btn=\"true\" href=\"motivation.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "magnifying-glass",
-              "family": "et-line",
-              "active": true,
-              "link": "auswahl.html",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title2": "Auswahl der Tools",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Einleitender Satz .....",
-          "button2": "<a data-app-btn=\"true\" href=\"auswahl.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "book-open",
-              "family": "et-line",
-              "active": true,
-              "link": "tools.html",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title3": "Tools",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Einleitender Satz ....",
-          "button3": "<a data-app-btn=\"true\" href=\"tools.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "genius",
-              "family": "et-line",
-              "active": true,
-              "link": "fazit.html",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title4": "Fazit",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Einleitender Satz ....",
-          "button4": "<a data-app-btn=\"true\" href=\"fazit.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts4",
-          "_anchor": "contacts4-10",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: a@b.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">U</a>niversität Stuttgart</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">F</a>akultät</li><li>Git</li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "simon.rakel@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": false,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-11",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": false,
-            "logo": false,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"motivation.html\">Motivation</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"auswahl.html\">Auswahl</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"false\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AWS Cloud Formation<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fazit.html\" aria-expanded=\"true\">Fazit</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        }
-      ]
-    },
-    "auswahl.html": {
-      "settings": {},
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-11",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": false,
-            "logo": false,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"motivation.html\">Motivation</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"auswahl.html\">Auswahl</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"false\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AWS Cloud Formation<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fazit.html\" aria-expanded=\"true\">Fazit</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-h",
-          "_params": {
-            "paddingTop": "6",
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "Auswahl der Tools<br>",
-          "meta": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-i",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Suche der Tools:</p><p><br></p><p>Platzhalter ..........</p><p>Liste der Tools nach Suche:</p><p><br></p><p>Auswahlkriterien:</p><p><br></p><p>KO Kriterien</p><p>Liste der Tools nach KO</p><p><br></p><p>Auswahl der Tools</p><p>Liste der betrachteten Tools (mit Links)</p>"
-        },
-        {
-          "_inherit": "features3",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features6",
-          "_anchor": "features6-j",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": true
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "megaphone",
-              "family": "et-line",
-              "active": true,
-              "link": "motivation.html",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title1": "Motivation",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Einleitender Satz ....",
-          "button1": "<a data-app-btn=\"true\" href=\"motivation.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "magnifying-glass",
-              "family": "et-line",
-              "active": true,
-              "link": "auswahl.html",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title2": "Auswahl der Tools",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Einleitender Satz .....",
-          "button2": "<a data-app-btn=\"true\" href=\"auswahl.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "book-open",
-              "family": "et-line",
-              "active": true,
-              "link": "tools.html",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title3": "Tools",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Einleitender Satz ....",
-          "button3": "<a data-app-btn=\"true\" href=\"tools.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "genius",
-              "family": "et-line",
-              "active": true,
-              "link": "fazit.html",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title4": "Fazit",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Einleitender Satz ....",
-          "button4": "<a data-app-btn=\"true\" href=\"fazit.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts4",
-          "_anchor": "contacts4-10",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: a@b.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">U</a>niversität Stuttgart</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">F</a>akultät</li><li>Git</li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "simon.rakel@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": false,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"task.html\">Task</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"false\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AWS Cloud Formation<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -979,19 +378,6 @@
             "bgColor": "#fff"
           },
           "text": "<p>Einleitender Satz / Platzhalter ..........</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-p",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Beschreibung mytinytodo / Vorraussetzungen / angestrebtes Ziel / usw.</p>"
         },
         {
           "_inherit": "features4",
@@ -1047,7 +433,7 @@
           },
           "title1": "Docker",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Kurze Vorstellung ...",
+          "caption1": "short introduction",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -1062,7 +448,7 @@
           },
           "title2": "Chef",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Kurze Vorstellung ...",
+          "caption2": "short introduction",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -1077,7 +463,7 @@
           },
           "title3": "Vagrant",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Kurze Vorstellung ...",
+          "caption3": "short introduction",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -1092,7 +478,7 @@
           },
           "title4": "Puppet",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Kurze Vorstellung ...",
+          "caption4": "short introduction",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -1107,7 +493,7 @@
           },
           "title5": "ARIA",
           "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Kurze Vorstellung ...",
+          "caption5": "short introduction",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "iconFont": {
@@ -1122,7 +508,7 @@
           },
           "title6": "AWS Cloud Formation",
           "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Kurze Vorstellung ...",
+          "caption6": "short introduction",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
@@ -1131,7 +517,7 @@
             "Theme"
           ],
           "_name": "features6",
-          "_anchor": "features6-m",
+          "_anchor": "features6-14",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -1147,7 +533,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
+            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -1161,32 +547,16 @@
               "name": "megaphone",
               "family": "et-line",
               "active": true,
-              "link": "motivation.html",
+              "link": "task.html",
               "size": 0,
               "newWindow": false
             }
           },
-          "title1": "Motivation",
+          "title1": "Task",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Einleitender Satz ....",
-          "button1": "<a data-app-btn=\"true\" href=\"motivation.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption1": "Here you can find the description of the systems that are set up with the provided examples",
+          "button1": "<a data-app-btn=\"true\" href=\"task.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "magnifying-glass",
-              "family": "et-line",
-              "active": true,
-              "link": "auswahl.html",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title2": "Auswahl der Tools",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Einleitender Satz .....",
-          "button2": "<a data-app-btn=\"true\" href=\"auswahl.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
@@ -1198,10 +568,26 @@
               "newWindow": false
             }
           },
-          "title3": "Tools",
+          "title2": "Tools",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Here you can find descriptions of the analyzed tools and example code.",
+          "button2": "<a data-app-btn=\"true\" href=\"tools.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "magnifying-glass",
+              "family": "et-line",
+              "active": true,
+              "link": "overview.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title3": "Overview",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Einleitender Satz ....",
-          "button3": "<a data-app-btn=\"true\" href=\"tools.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption3": "A quick overview of the tools&nbsp;",
+          "button3": "<a data-app-btn=\"true\" href=\"overview.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -1379,301 +765,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"motivation.html\">Motivation</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"auswahl.html\">Auswahl</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"false\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AWS Cloud Formation<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fazit.html\" aria-expanded=\"true\">Fazit</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        }
-      ]
-    },
-    "fazit.html": {
-      "settings": {},
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-v",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "Fazit<br>",
-          "meta": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-w",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Platzhalter ..........</p>"
-        },
-        {
-          "_inherit": "features3",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features6",
-          "_anchor": "features6-u",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": true
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "megaphone",
-              "family": "et-line",
-              "active": true,
-              "link": "motivation.html",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title1": "Motivation",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Einleitender Satz ....",
-          "button1": "<a data-app-btn=\"true\" href=\"motivation.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "magnifying-glass",
-              "family": "et-line",
-              "active": true,
-              "link": "auswahl.html",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title2": "Auswahl der Tools",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Einleitender Satz .....",
-          "button2": "<a data-app-btn=\"true\" href=\"auswahl.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "book-open",
-              "family": "et-line",
-              "active": true,
-              "link": "tools.html",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title3": "Tools",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Einleitender Satz ....",
-          "button3": "<a data-app-btn=\"true\" href=\"tools.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "genius",
-              "family": "et-line",
-              "active": true,
-              "link": "fazit.html",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title4": "Fazit",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Einleitender Satz ....",
-          "button4": "<a data-app-btn=\"true\" href=\"fazit.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts4",
-          "_anchor": "contacts4-10",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: a@b.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">U</a>niversität Stuttgart</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">F</a>akultät</li><li>Git</li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "simon.rakel@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": false,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-11",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": false,
-            "logo": false,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"motivation.html\">Motivation</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"auswahl.html\">Auswahl</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"false\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AWS Cloud Formation<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fazit.html\" aria-expanded=\"true\">Fazit</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"task.html\">Task</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"false\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AWS Cloud Formation<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -1719,7 +811,7 @@
             "Theme"
           ],
           "_name": "features6",
-          "_anchor": "features6-t",
+          "_anchor": "features6-16",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -1735,7 +827,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
+            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -1749,32 +841,16 @@
               "name": "megaphone",
               "family": "et-line",
               "active": true,
-              "link": "motivation.html",
+              "link": "task.html",
               "size": 0,
               "newWindow": false
             }
           },
-          "title1": "Motivation",
+          "title1": "Task",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Einleitender Satz ....",
-          "button1": "<a data-app-btn=\"true\" href=\"motivation.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption1": "Here you can find the description of the systems that are set up with the provided examples",
+          "button1": "<a data-app-btn=\"true\" href=\"task.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "magnifying-glass",
-              "family": "et-line",
-              "active": true,
-              "link": "auswahl.html",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title2": "Auswahl der Tools",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Einleitender Satz .....",
-          "button2": "<a data-app-btn=\"true\" href=\"auswahl.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
@@ -1786,10 +862,26 @@
               "newWindow": false
             }
           },
-          "title3": "Tools",
+          "title2": "Tools",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Here you can find descriptions of the analyzed tools and example code.",
+          "button2": "<a data-app-btn=\"true\" href=\"tools.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "magnifying-glass",
+              "family": "et-line",
+              "active": true,
+              "link": "overview.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title3": "Overview",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Einleitender Satz ....",
-          "button3": "<a data-app-btn=\"true\" href=\"tools.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption3": "A quick overview of the tools&nbsp;",
+          "button3": "<a data-app-btn=\"true\" href=\"overview.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -1967,7 +1059,610 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"motivation.html\">Motivation</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"auswahl.html\">Auswahl</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"false\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AWS Cloud Formation<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"fazit.html\" aria-expanded=\"true\">Fazit</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"task.html\">Task</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"false\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AWS Cloud Formation<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "task.html": {
+      "settings": {
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-f",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Platzhalter ..........</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-e",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Task",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-12",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>For comparing the tools we set up the application myTinyTodo, which allows users to manage todo lists.</p><p><br></p><p>The application needs the following requirements:</p><p><br></p><p>- Apache Web Server</p><p>- PHP 5.2.0 or greater;</p><p>- PHP extensions: php<span style=\"font-size: 1.07rem; line-height: 1.5;\">_mysql (MySQL version)</span></p><p><br></p><p>We set up the application with all tools on two servers (one with the application, one with the database).</p><p>As operating system Ubuntu 14.04 was used and the servers were set up on an openstack system.</p><p><br></p><p>Further information about the myTinyTodo application can be found here:</p><p><br></p><p>http://www.mytinytodo.net/</p>"
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_anchor": "features6-13",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "megaphone",
+              "family": "et-line",
+              "active": true,
+              "link": "task.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title1": "Task",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Here you can find the description of the systems that are set up with the provided examples",
+          "button1": "<a data-app-btn=\"true\" href=\"task.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "book-open",
+              "family": "et-line",
+              "active": true,
+              "link": "tools.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title2": "Tools",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Here you can find descriptions of the analyzed tools and example code.",
+          "button2": "<a data-app-btn=\"true\" href=\"tools.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "magnifying-glass",
+              "family": "et-line",
+              "active": true,
+              "link": "overview.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title3": "Overview",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "A quick overview of the tools&nbsp;",
+          "button3": "<a data-app-btn=\"true\" href=\"overview.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "genius",
+              "family": "et-line",
+              "active": true,
+              "link": "fazit.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title4": "Fazit",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Einleitender Satz ....",
+          "button4": "<a data-app-btn=\"true\" href=\"fazit.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-10",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: a@b.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">U</a>niversität Stuttgart</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">F</a>akultät</li><li>Git</li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "simon.rakel@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": false,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-11",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"task.html\">Task</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"false\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AWS Cloud Formation<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        }
+      ]
+    },
+    "overview.html": {
+      "settings": {},
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-v",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Overview<br>",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-w",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Platzhalter ..........</p><p>gedacht: Tabelle mit verschiedenen Vergleichskriterien (openstack kompatibel, differ lines of code from sample, ...)</p>"
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_anchor": "features6-15",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "megaphone",
+              "family": "et-line",
+              "active": true,
+              "link": "task.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title1": "Task",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Here you can find the description of the systems that are set up with the provided examples",
+          "button1": "<a data-app-btn=\"true\" href=\"task.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "book-open",
+              "family": "et-line",
+              "active": true,
+              "link": "tools.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title2": "Tools",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Here you can find descriptions of the analyzed tools and example code.",
+          "button2": "<a data-app-btn=\"true\" href=\"tools.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "magnifying-glass",
+              "family": "et-line",
+              "active": true,
+              "link": "overview.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title3": "Overview",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "A quick overview of the tools&nbsp;",
+          "button3": "<a data-app-btn=\"true\" href=\"overview.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "genius",
+              "family": "et-line",
+              "active": true,
+              "link": "fazit.html",
+              "size": 0,
+              "newWindow": false
+            }
+          },
+          "title4": "Fazit",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Einleitender Satz ....",
+          "button4": "<a data-app-btn=\"true\" href=\"fazit.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-10",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: a@b.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">U</a>niversität Stuttgart</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">F</a>akultät</li><li>Git</li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "simon.rakel@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": false,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-11",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": false,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"task.html\">Task</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"false\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">ARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">AWS Cloud Formation<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     }
