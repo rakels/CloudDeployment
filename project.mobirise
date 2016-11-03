@@ -854,7 +854,7 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://github.com/koppor/fachstudie-cloud-management-software-comparison/tree/master/Vagrant_docker\" data-toolbar=\"-mbrBtnMove\">Download</a>",
           "title": "Code on GitHub",
           "text": ""
         },
@@ -1794,7 +1794,7 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"\" data-toolbar=\"-mbrBtnMove\">Download</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://github.com/koppor/fachstudie-cloud-management-software-comparison/tree/master/Vagrant_OpenStack_parallel\" data-toolbar=\"-mbrBtnMove\">Download</a>",
           "title": "Code on GitHub",
           "text": ""
         },
