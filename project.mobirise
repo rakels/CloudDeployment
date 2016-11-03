@@ -84,7 +84,7 @@
           },
           "title": "Cloud Deployment TodoMVC",
           "text": "There are many &nbsp;possibilities for Cloud Deployment solutions out there. But which solution suits my needs?&nbsp;<br>To help solve this problem we compared several tools set up a system with them and &nbsp;collected our findings here,<br>&nbsp;<br>To the tools:&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"tools.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_inherit": "features3",
