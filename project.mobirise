@@ -284,7 +284,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cloud Deployment TodoMVC</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"task.html\">Task</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"false\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"puppet.html\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vagrant.html\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chef.html\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aria.html\">ARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"heat.html\">Heat<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"task.html\">Task</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"true\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"puppet.html\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vagrant.html\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chef.html\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"heat.html\">Heat<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -325,7 +325,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Einleitender Satz / Platzhalter ..........</p>"
+          "text": "<p>You can find the links to the analyzed tools here.</p>"
         },
         {
           "_inherit": "features4",
@@ -359,7 +359,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "6",
+            "columns": "5",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -381,7 +381,7 @@
           },
           "title1": "Docker",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "short introduction",
+          "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -398,7 +398,7 @@
           },
           "title2": "Chef",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "short introduction",
+          "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -415,7 +415,7 @@
           },
           "title3": "Vagrant",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "short introduction",
+          "caption3": "",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -432,7 +432,7 @@
           },
           "title4": "Puppet",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "short introduction",
+          "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -441,15 +441,15 @@
               "name": "document",
               "family": "et-line",
               "active": true,
-              "link": "aria.html",
+              "link": "heat.html",
               "size": 0,
               "color": "#fff",
               "newWindow": false
             }
           },
-          "title5": "ARIA",
+          "title5": "Heat",
           "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "short introduction",
+          "caption5": "",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "iconFont": {
@@ -675,7 +675,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cloud Deployment TodoMVC</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"task.html\">Task</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"false\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"puppet.html\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vagrant.html\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chef.html\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aria.html\">ARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"heat.html\">Heat<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"task.html\">Task</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"true\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"puppet.html\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vagrant.html\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chef.html\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"heat.html\">Heat<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -695,15 +695,15 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-r",
+          "_anchor": "header3-15",
           "_params": {
             "paddingTop": "5",
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Docker<br>",
-          "meta": ""
+          "title": "Docker",
+          "meta": "<a href=\"https://www.docker.com/\">https://www.docker.com/</a>"
         },
         {
           "_tags": [
@@ -716,7 +716,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Platzhalter ..........</p><p>- Vorstellung des Tools</p><p>- Funktionsumfang</p><p>- Architektur</p><p>- Umsetzung mytinytodo-App</p><p>- Bewertung</p><p>- Besonderheiten</p><p><br></p>"
+          "text": "<p>Docker is an open source software which allows it's users to provision software in so called docker containers. The initial version of docker was introduced on march 13th 2013 on PyCon by architect and founder of the Docker project Solomon Hykes.</p><p><br></p><p>Docker &nbsp;packages a program or a component of a program into a docker container which includes it's own file system. This ensures that the content of the container always runs under the same conditions.</p><p><br></p><p>It is not possible to create new virtual machines on openstack for example by using docker, but you can also find combinations with other tools for example in the repo linked below.</p>"
         },
         {
           "_styles": {
@@ -962,7 +962,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cloud Deployment TodoMVC</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"task.html\">Task</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"false\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"puppet.html\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vagrant.html\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chef.html\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aria.html\">ARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"heat.html\">Heat<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"task.html\">Task</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"true\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"puppet.html\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vagrant.html\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chef.html\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"heat.html\">Heat<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -1017,7 +1017,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>For comparing the tools we set up the application myTinyTodo, which allows users to manage todo lists.</p><p><br></p><p>The application needs the following requirements:</p><p><br></p><p>- Apache Web Server</p><p>- PHP 5.2.0 or greater;</p><p>- PHP extensions: php<span style=\"font-size: 1.07rem; line-height: 1.5;\">_mysql (MySQL version)</span></p><p><br></p><p>We set up the application with all tools on two servers (one with the application, one with the database).</p><p>As operating system Ubuntu 14.04 was used and the servers were set up on an openstack system.</p><p><br></p><p>Further information about the myTinyTodo application can be found here:</p><p><br></p><p>http://www.mytinytodo.net/</p>"
+          "text": "<p>For comparing the tools we set up the application myTinyTodo, which allows users to manage todo lists.</p><p><br></p><p>The application needs the following requirements:</p><p><br></p><p>- Apache Web Server</p><p>- PHP 5.2.0 or greater;</p><p>- PHP extensions: php<span style=\"font-size: 1.07rem; line-height: 1.5;\">_mysql (MySQL version)</span></p><p><br></p><p>We set up the application with all tools on two servers (one with the application, one with the database).</p><p>As operating system Ubuntu 14.04 was used and the servers were set up on an openstack system.</p><p><br></p><p>Further information about the myTinyTodo application can be found here:</p><p><br></p><p><a href=\"http://www.mytinytodo.net/\">http://www.mytinytodo.net/</a></p>"
         },
         {
           "_inherit": "features3",
@@ -1225,7 +1225,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cloud Deployment TodoMVC</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"task.html\">Task</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"false\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"puppet.html\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vagrant.html\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chef.html\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aria.html\">ARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"heat.html\">Heat<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"task.html\">Task</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"true\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"puppet.html\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vagrant.html\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chef.html\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"heat.html\">Heat<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -1266,7 +1266,48 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Platzhalter ..........</p><p>gedacht: Tabelle mit verschiedenen Vergleichskriterien (openstack kompatibel, differ lines of code from sample, ...)</p>"
+          "text": "<p>In the table below, the following criteria were used:</p><p></p><p><br></p><p><b>Host OS: </b></p><p>The criteria is fulfilled, if the host operating systems Windows 7 (and higher) and Debian are supported.</p><p><b>Continous development: </b></p><p>Is fullfilled if the last commit or release is not older than 6 months</p><p><b>Automate VM creation:</b></p><p>Shows if it's possible to set up virtual machines with the tool</p><p><b>Parallel deployment:</b></p><p>Shows if it's possible to deploy to different machines at the same time</p><p><b>Manual interaction:</b></p><p>Indicates if a manual interaction is necessary</p><p><br></p><p></p><p></p><p></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-19",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "assets/images/unbenannt-1400x404-87.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Lines of codes overview:</p><p><b><br></b></p><p><b>Vagrant</b></p><p><b>\t</b></p><p>Create VM: 40</p><p>Provisioning: 55</p><p><b>Puppet\t</b></p><p>Provisioning: 64</p><p><b>Docker\t</b></p><p>Provisioning: 59</p><p><b>Heat\t</b></p><p>Create VM: 70</p><p>Provisioning: 58</p><p><b>Chef</b></p><p>Provisioning: 101</p><p><br></p>"
         },
         {
           "_inherit": "features3",
@@ -1474,7 +1515,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cloud Deployment TodoMVC</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"task.html\">Task</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"false\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"puppet.html\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vagrant.html\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chef.html\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aria.html\">ARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"heat.html\">Heat<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"task.html\">Task</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"true\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"puppet.html\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vagrant.html\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chef.html\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"heat.html\">Heat<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -1497,12 +1538,12 @@
           "_anchor": "header3-13",
           "_params": {
             "paddingTop": "5",
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Vagrant<br>",
-          "meta": ""
+          "title": "Vagrant",
+          "meta": "<a href=\"https://www.vagrantup.com\">https://www.vagrantup.com</a>"
         },
         {
           "_tags": [
@@ -1515,7 +1556,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Platzhalter ..........</p><p>- Vorstellung des Tools</p><p>- Funktionsumfang</p><p>- Architektur</p><p>- Umsetzung mytinytodo-App</p><p>- Bewertung</p><p>- Besonderheiten</p><p><br></p>"
+          "text": "<p>Vagrant is an open source project, which was initially developed by Mitchell Hashimoto. Later Hashimoto founded HashiCorp, which customizes Vagrant and offers consulting and trainings.</p><p><br></p><p>Vagrant allows it's users to setup and configure virtual machines easily. Vagrant is using boxes for the internal realization. You can find different samples for Vagrant in the repo below.</p>"
         },
         {
           "_styles": {
@@ -1761,7 +1802,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cloud Deployment TodoMVC</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"task.html\">Task</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"false\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"puppet.html\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vagrant.html\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chef.html\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aria.html\">ARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"heat.html\">Heat<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"task.html\">Task</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"true\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"puppet.html\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vagrant.html\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chef.html\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"heat.html\">Heat<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -1781,15 +1822,15 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-18",
+          "_anchor": "header3-16",
           "_params": {
             "paddingTop": "5",
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Puppet<br>",
-          "meta": ""
+          "title": "Puppet",
+          "meta": "<a href=\"https://puppet.com/\">https://puppet.com/</a>"
         },
         {
           "_tags": [
@@ -1802,7 +1843,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Platzhalter ..........</p><p>- Vorstellung des Tools</p><p>- Funktionsumfang</p><p>- Architektur</p><p>- Umsetzung mytinytodo-App</p><p>- Bewertung</p><p>- Besonderheiten</p><p><br></p>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Puppet is a system to manage and provision multiple machines in a network environment. Puppet is an open source projects which is released under the Apache License 2.0. Puppet was initially released in 2005.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Puppet is used in a client server setup. Where one designated server works as the so called puppetmaster. On the hostmachines it is necessary to install the puppetagent which sets up the communication with the server. The puppetmaster needs to sign the requests from the different puppetagents. Sample Manifest files can be found in the repo linked below.</span></p><p><br></p>"
         },
         {
           "_styles": {
@@ -1838,7 +1879,7 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://github.com/koppor/fachstudie-cloud-management-software-comparison/tree/master/Puppet\" data-toolbar=\"-mbrBtnMove\">Download</a>",
           "title": "Code on GitHub",
           "text": ""
         },
@@ -2048,294 +2089,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cloud Deployment TodoMVC</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"task.html\">Task</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"false\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"puppet.html\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vagrant.html\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chef.html\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aria.html\">ARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"heat.html\">Heat<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        }
-      ]
-    },
-    "aria.html": {
-      "settings": {
-        "order": 8,
-        "title": "Cloud Deployment TodoMVC"
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1d",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "Aria<br>",
-          "meta": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-1e",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Platzhalter ..........</p><p>- Vorstellung des Tools</p><p>- Funktionsumfang</p><p>- Architektur</p><p>- Umsetzung mytinytodo-App</p><p>- Bewertung</p><p>- Besonderheiten</p><p><br></p>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-1v",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": true,
-            "showButtons": true,
-            "showTitle": true,
-            "showText": true
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download</a>",
-          "title": "Code on GitHub",
-          "text": ""
-        },
-        {
-          "_inherit": "features3",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features6",
-          "_anchor": "features6-1f",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "3",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": true
-          },
-          "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "megaphone",
-              "family": "et-line",
-              "active": true,
-              "link": "task.html",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title1": "Task",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Here you can find the description of the systems that are set up with the provided examples",
-          "button1": "<a data-app-btn=\"true\" href=\"task.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "book-open",
-              "family": "et-line",
-              "active": true,
-              "link": "tools.html",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title2": "Tools",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Here you can find descriptions of the analyzed tools and example code.",
-          "button2": "<a data-app-btn=\"true\" href=\"tools.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "magnifying-glass",
-              "family": "et-line",
-              "active": true,
-              "link": "overview.html",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title3": "Overview",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "A quick overview of the tools&nbsp;",
-          "button3": "<a data-app-btn=\"true\" href=\"overview.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "genius",
-              "family": "et-line",
-              "active": true,
-              "link": "fazit.html",
-              "size": 0,
-              "newWindow": false
-            }
-          },
-          "title4": "Fazit",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Einleitender Satz ....",
-          "button4": "<a data-app-btn=\"true\" href=\"fazit.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-1r",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": false,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "assets/images/github-mark-light-120px-plus-128x128-67.png",
-              "height": 128,
-              "alt": "Github",
-              "link": "https://github.com/koppor/fachstudie-cloud-management-software-comparison",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cloud Deployment TodoMVC</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"task.html\">Task</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"false\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"puppet.html\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vagrant.html\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chef.html\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aria.html\">ARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"heat.html\">Heat<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"task.html\">Task</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"true\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"puppet.html\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vagrant.html\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chef.html\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"heat.html\">Heat<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -2355,15 +2109,15 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1i",
+          "_anchor": "header3-17",
           "_params": {
             "paddingTop": "5",
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Heat<br>",
-          "meta": ""
+          "title": "Heat",
+          "meta": "<a href=\"https://wiki.openstack.org/wiki/Heat\">https://wiki.openstack.org/wiki/Heat</a>"
         },
         {
           "_tags": [
@@ -2376,7 +2130,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Platzhalter ..........</p><p>- Vorstellung des Tools</p><p>- Funktionsumfang</p><p>- Architektur</p><p>- Umsetzung mytinytodo-App</p><p>- Bewertung</p><p>- Besonderheiten</p><p><br></p>"
+          "text": "<p>Heat is a tool which was developed for OpenStack to manage and orchestrate virtual machines. Heat is based on templates in the .yml format. To create a new virtual machine it is only needed to add a Heat template in the OpenStack interface.</p><p><br></p><p>Heat itself contains different tools which work together, like the Heat API, the Heat CLI and the Heat Engine. The link below points to a template which was used to set up our sample application.</p><p><br></p>"
         },
         {
           "_styles": {
@@ -2412,7 +2166,7 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://github.com/koppor/fachstudie-cloud-management-software-comparison/tree/master/Heat\" data-toolbar=\"-mbrBtnMove\">Download</a>",
           "title": "Code on GitHub",
           "text": ""
         },
@@ -2622,7 +2376,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cloud Deployment TodoMVC</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"task.html\">Task</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"false\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"puppet.html\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vagrant.html\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chef.html\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aria.html\">ARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"heat.html\">Heat<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"task.html\">Task</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"true\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"puppet.html\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vagrant.html\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chef.html\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"heat.html\">Heat<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -2642,15 +2396,15 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1n",
+          "_anchor": "header3-14",
           "_params": {
             "paddingTop": "5",
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Chef<br>",
-          "meta": ""
+          "title": "Chef",
+          "meta": "<a href=\"https://www.chef.io/chef/\">https://www.chef.io/chef/</a>"
         },
         {
           "_tags": [
@@ -2663,7 +2417,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Platzhalter ..........</p><p>- Vorstellung des Tools</p><p>- Funktionsumfang</p><p>- Architektur</p><p>- Umsetzung mytinytodo-App</p><p>- Bewertung</p><p>- Besonderheiten</p><p><br></p>"
+          "text": "<p>Chef is a configuration and management tool which was initially developed by Adam Jacob. The software exists since 2009 and is licensed under the Apache License 2.0. Chef itself is using ruby.</p><p><br></p><p>Chef can either be used in a server client setup, or in a setup without a server. It is not possible to create new virtual machines using Chef. For configuring the provisioning Chef uses cookbooks and recipes, which can be found in the repo linked below.</p>"
         },
         {
           "_styles": {
@@ -2699,7 +2453,7 @@
             "showTitle": true,
             "showText": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Download</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://github.com/koppor/fachstudie-cloud-management-software-comparison/tree/master/chef/cookbooks\" data-toolbar=\"-mbrBtnMove\">Download</a>",
           "title": "Code on GitHub",
           "text": ""
         },
@@ -2909,7 +2663,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cloud Deployment TodoMVC</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"task.html\">Task</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"false\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"puppet.html\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vagrant.html\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chef.html\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"aria.html\">ARIA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"heat.html\">Heat<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"task.html\">Task</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"tools.html\" aria-expanded=\"true\">Tools</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"docker.html\">Docker</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"puppet.html\">Puppet</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vagrant.html\" style=\"text-align: left; display: inline !important;\">Vagrant<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chef.html\">Chef<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"heat.html\">Heat<br></a><br></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"overview.html\" aria-expanded=\"false\">Overview</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     }
